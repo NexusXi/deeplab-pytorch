@@ -4,7 +4,7 @@ EXP:
 
 DATASET:
     NAME: vocaug
-    ROOT: /kaggle/working/deeplab-pytorch/data/datasets/voc12/VOC2012
+    ROOT: /kaggle/working/deeplab-pytorch/data/datasets/voc12
     LABELS: ./data/datasets/voc12/labels.txt
     N_CLASSES: 21
     IGNORE_LABEL: 255
